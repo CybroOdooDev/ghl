@@ -1,0 +1,4 @@
+[submodule "archeti/ghl"]
+	path = archeti/ghl
+	url = git@gitlab.com:archeti/ghl.git
+    branch = staging
