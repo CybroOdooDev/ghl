@@ -2,6 +2,3 @@
 	path = archeti/ghl
 	url = git@gitlab.com:archeti/ghl.git
     branch = staging
-[submodule "oca/intrastat"]
-	path = oca/intrastat
-	url = https://github.com/OCA/intrastat.git
