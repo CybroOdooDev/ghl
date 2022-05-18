@@ -4,5 +4,5 @@
     branch = staging
 [submodule "archeti/gitlab-cybrosys"]
 	path = archeti/gitlab-cybrosys
-	url = gitlab@gitlab.com:archeti/externals/ghl-cybrosys.git
+	url = git@gitlab.com:archeti/externals/ghl-cybrosys.git
 	branch = main
