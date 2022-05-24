@@ -2,7 +2,3 @@
 	path = archeti/ghl
 	url = git@gitlab.com:archeti/ghl.git
     branch = staging
-[submodule "archeti/gitlab-cybrosys"]
-	path = archeti/gitlab-cybrosys
-	url = git@gitlab.com:archeti/externals/ghl-cybrosys.git
-	branch = main
